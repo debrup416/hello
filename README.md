@@ -1,6 +1,4 @@
 # hello
 Hello World
 
-http://127.0.0.1:8000/
-
-http://127.0.0.1:8000/admin/
+![image](https://github.com/debrup416/hello/assets/55157542/e5caf055-6035-4cb0-837a-c3e1b6d203b4)
